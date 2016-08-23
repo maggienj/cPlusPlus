@@ -1,0 +1,7 @@
+<< input number = 6 >>
+Enter any number:
+ subset is  2squared  and running total=4
+ subset is  2squared  + 4squared  and running total=24
+ subset is  2squared  + 4squared  + 6squared  and running total=84
+ grand total=84
+ 
