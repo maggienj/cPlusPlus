@@ -32,6 +32,8 @@ Write a C++ program to find the fibonacci series using do while loop </br>
 
 Q5 --
 Write a C++ program to find the factorial of teh given number using while loop </br>
+Answer : using for loop is <https://github.com/maggienj/cPlusPlus/blob/master/AnswerFor-Q5-forLoop>
+Answer : using while loop is <https://github.com/maggienj/cPlusPlus/blob/master/AnswerFor-Q5while>
 
 Q6 --
 Write a C++ program to find whether the given number is palindrome or not </br>
