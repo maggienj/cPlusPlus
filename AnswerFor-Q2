@@ -1,0 +1,56 @@
+This is the same as the answer for Q1 .... except the lines...
+line21 (  for(i=1;i<=n;++i) ), 
+line23 ( if (i % 2 == 1) )
+and
+line34 (          // curr_sum=sum;)  
+were changed.
+
+line21 .... i changed the i=2 to i=1 for this answer
+line23..... i cahnged the "== 0" to "== 1" for this answer
+line34 ...... I commented it for this answer
+
+So, just copy the below code and then start counting the line numbers from 1 from the below line only..
+#include<iostream>
+#include <string>
+#include <sstream>
+ 
+using namespace std;
+ 
+ string itos(int i)  // convert int to string
+{
+    stringstream s;
+    s << i;
+    return s.str();
+}
+
+int main()
+{
+    unsigned long n,i,sum=0,squared_i, curr_sum=0;
+    string curr_str = " ";
+    cout<<"Enter any number:";
+    cin>>n;
+ 
+    for(i=1;i<=n;++i)
+    {
+        if (i % 2 == 1) 
+        { squared_i=i*i;
+          sum+=squared_i;
+          curr_str = curr_str  + itos(i) + "squared ";
+          // cout<<"\n squared of "<<i;
+          // cout<<"  = "<<squared_i;
+ 
+          // cout<<"\n sub_set sum="<<sum;
+          sum+=curr_sum;
+          cout<<"\n subset is "<<curr_str;
+          cout<<" and running total="<<sum;
+          // curr_sum=sum;
+          curr_str = curr_str + " + ";
+
+
+          
+        }
+    }
+ 
+    cout<<"\n grand total="<<sum;
+    return 0;
+}
