@@ -7,7 +7,7 @@ And then click on RUN and see the output at the bottom of the screen
 
 
 Q1 --
-Write a C++ program to find the sum of series (2^2 + (2^2 + 4^2) + (2^2 + 4^2 + 6^2) + ..... up to n terms )
+Write a C++ program to find the sum of series (2^2 + (2^2 + 4^2) + (2^2 + 4^2 + 6^2) + ..... up to n terms ) </br>
 Answer -- <https://github.com/maggienj/cPlusPlus/blob/master/AnswerFor-Q1>
 
 Q2 --
