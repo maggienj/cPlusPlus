@@ -1,0 +1,24 @@
+#include <iostream>
+using namespace std;
+int main()
+{
+ int n, n1, rem, num=0;
+ cout << "Enter a positive  integer: ";
+ cin >> n;
+ n1=n;
+ while(n1!=0)
+ {
+      cout << n1 << " is n1 \n";
+     rem=n1%10;
+     cout << rem << " is rem \n";
+     num+=rem*rem*rem;
+     cout << num << " is num \n";
+     n1/=10;
+     cout << n1 << " is the result of  n1/10 \n";
+ }
+ if(num==n)
+   cout << n << " is an Armstrong number.";
+ else
+   cout << n << " is not an Armstrong number.";
+ return 0;
+}
