@@ -57,5 +57,7 @@ Resource used for Q1 </br>
 Resource used for Q3 -- <br>
 <http://programmingknowledgeblog.blogspot.com/2013/04/write-c-program-that-calculates-average.html> </br>
 Resource used for Q7 , Armstrong number -- </br>
-<http://www.programiz.com/cpp-programming/examples/check-armstrong-number>
+<http://www.programiz.com/cpp-programming/examples/check-armstrong-number> </br>
 
+For Fibonacci Series:
+http://www.codingconnect.net/fibonacci-series-using-do-while-loop/
