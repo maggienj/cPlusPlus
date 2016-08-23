@@ -47,5 +47,8 @@ Answer -- <https://github.com/maggienj/cPlusPlus/blob/master/AnswerFor-Q7>
 
 </br>
 Other Notes:  </br>
-Resources used for Q3 -- <br>
-<http://programmingknowledgeblog.blogspot.com/2013/04/write-c-program-that-calculates-average.html>
+Resource used for Q3 -- <br>
+<http://programmingknowledgeblog.blogspot.com/2013/04/write-c-program-that-calculates-average.html> </br>
+Resource used for Q7 , Armstrong number -- </br>
+<http://www.programiz.com/cpp-programming/examples/check-armstrong-number>
+
