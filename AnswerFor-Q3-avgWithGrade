@@ -1,0 +1,33 @@
+#include <iostream>
+using namespace std;
+
+const int NUM_SCORES = 5;
+
+int main()
+{
+   int score1, score2, score3, score4, score5;
+   float avg;
+   cout << "Enter 5 scores separated by spaces: ";
+   cin  >> score1 >> score2 >> score3 >> score4 >> score5;
+
+   avg = float(score1 + score2 + score3 + score4 + score5) / float(NUM_SCORES);
+
+cout << "\n avg is " << avg;
+
+    if (avg >= 90 )
+       cout<<"\n O " ;
+    else if (avg >= 80) 
+       cout<<"\n A " ;
+    else if (avg >= 70) 
+        cout<<"\n B " ;
+    else if (avg >= 60) 
+       cout<<"\n C " ;
+    else if (avg >= 50) 
+       cout<<"\n D " ;
+    else if (avg < 50) 
+       cout<<"\n E "  
+       <<  endl;
+
+
+return 0;
+}
