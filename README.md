@@ -23,7 +23,8 @@ and print the grade for that average <br>
 60 - 69    C  </br>
 50 - 59    D  </br>
 < 50       E  </br>
-
+Answer -- <https://github.com/maggienj/cPlusPlus/blob/master/AnswerFor-Q3> </br>
+Answer is still in progress... i have just found the average in this answer. Take it one step further and add the grades if you could. Try it... if not, I will add the grades.
 
 
 Q4-- 
