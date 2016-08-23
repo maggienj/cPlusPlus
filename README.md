@@ -59,5 +59,5 @@ Resource used for Q3 -- <br>
 Resource used for Q7 , Armstrong number -- </br>
 <http://www.programiz.com/cpp-programming/examples/check-armstrong-number> </br>
 
-For Fibonacci Series:
-http://www.codingconnect.net/fibonacci-series-using-do-while-loop/
+Resource used For fibonacci Series: </br>
+<http://www.codingconnect.net/fibonacci-series-using-do-while-loop/>
