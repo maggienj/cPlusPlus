@@ -44,3 +44,7 @@ Write a C++ program to find whether the given number is Armstrong or not. </br>
 Answer -- <https://github.com/maggienj/cPlusPlus/blob/master/AnswerFor-Q7>
 
 
+
+</br>
+Resources used for Q3 -- <br>
+<http://programmingknowledgeblog.blogspot.com/2013/04/write-c-program-that-calculates-average.html>
