@@ -1,0 +1,12 @@
+his is the same as the answer for Q1 .... except the lines...
+line21 (  for(i=1;i<=n;++i) ), 
+line23 ( if (i % 2 == 1) )
+and
+line34 (          // curr_sum=sum;)  
+were changed.
+
+line21 .... i changed the i=2 to i=1 for this answer
+line23..... i cahnged the "== 0" to "== 1" for this answer
+line34 ...... I commented it for this answer
+
+So, just copy the below code and then start counting the line numbers from 1 from the below line only..line numbers will be displayed when u paste in the codechef IDE
