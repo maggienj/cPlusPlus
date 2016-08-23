@@ -47,6 +47,8 @@ Answer -- <https://github.com/maggienj/cPlusPlus/blob/master/AnswerFor-Q7>
 
 </br>
 Other Notes:  </br>
+Resource used for Q1 </br>
+<http://www.thecrazyprogrammer.com/2011/03/c-program-to-find-sum-of-square-of-n.html>
 Resource used for Q3 -- <br>
 <http://programmingknowledgeblog.blogspot.com/2013/04/write-c-program-that-calculates-average.html> </br>
 Resource used for Q7 , Armstrong number -- </br>
