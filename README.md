@@ -46,5 +46,6 @@ Answer -- <https://github.com/maggienj/cPlusPlus/blob/master/AnswerFor-Q7>
 
 
 </br>
+Other Notes:  </br>
 Resources used for Q3 -- <br>
 <http://programmingknowledgeblog.blogspot.com/2013/04/write-c-program-that-calculates-average.html>
