@@ -1,0 +1,44 @@
+#include<iostream>
+#include <string>
+#include <sstream>
+ 
+using namespace std;
+ 
+ string itos(int i)  // convert int to string
+{
+    stringstream s;
+    s << i;
+    return s.str();
+}
+
+int main()
+{
+    unsigned long n,i,sum=0,squared_i, curr_sum=0;
+    string curr_str = " ";
+    cout<<"Enter any number:";
+    cin>>n;
+ 
+    for(i=2;i<=n;++i)
+    {
+        if (i % 2 == 0) 
+        { squared_i=i*i;
+          sum+=squared_i;
+          curr_str = curr_str  + itos(i) + "squared ";
+          // cout<<"\n squared of "<<i;
+          // cout<<"  = "<<squared_i;
+ 
+          // cout<<"\n sub_set sum="<<sum;
+          sum+=curr_sum;
+          cout<<"\n subset is "<<curr_str;
+          cout<<" and running total="<<sum;
+          curr_sum=sum;
+          curr_str = curr_str + " + ";
+
+
+          
+        }
+    }
+ 
+    cout<<"\n grand total="<<sum;
+    return 0;
+}
