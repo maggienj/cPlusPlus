@@ -29,6 +29,7 @@ Answer is still in progress... i have just found the average in this answer. Tak
 
 Q4-- 
 Write a C++ program to find the fibonacci series using do while loop </br>
+<https://github.com/maggienj/cPlusPlus/blob/master/AnswerFor-Q4> </br>
 
 Q5 --
 Write a C++ program to find the factorial of teh given number using while loop </br>
