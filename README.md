@@ -11,21 +11,12 @@ Write a C++ program to find the sum of series (2^2 + (2^2 + 4^2) + (2^2 + 4^2 + 
 Answer -- <https://github.com/maggienj/cPlusPlus/blob/master/AnswerFor-Q1>
 
 Q2 --
-Write a C++ program to find the sum of the series of 1^2 + 3^2 + 5^2 + ..... up to n terms 
+Write a C++ program to find the sum of the series of 1^2 + 3^2 + 5^2 + ..... up to n terms </br>
 Answer -- <https://github.com/maggienj/cPlusPlus/blob/master/AnswerFor-Q2>
-
-Q3 --
-
-
-
-
-
-
-
 
 
 Q7 --
-Write a C++ program to find whether the given number is Armstrong or not.
+Write a C++ program to find whether the given number is Armstrong or not. </br>
 Answer -- <https://github.com/maggienj/cPlusPlus/blob/master/AnswerFor-Q7>
 
 
