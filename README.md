@@ -14,6 +14,29 @@ Q2 --
 Write a C++ program to find the sum of the series of 1^2 + 3^2 + 5^2 + ..... up to n terms </br>
 Answer -- <https://github.com/maggienj/cPlusPlus/blob/master/AnswerFor-Q2>
 
+Q3 -- 
+Write a C++ program to accept any 5 numbers, find the average </br>
+and print the grade for that average <br>
+90 - 100   O </br>
+80 - 89    A </BR>
+70 - 79    B </br>
+60 - 69    C  </br>
+50 - 59    D  </br>
+< 50       E  </br>
+
+
+
+Q4-- 
+Write a C++ program to find the fibonacci series using do while loop </br>
+
+Q5 --
+Write a C++ program to find the factorial of teh given number using while loop </br>
+
+Q6 --
+Write a C++ program to find whether the given number is palindrome or not </br>
+
+
+
 
 Q7 --
 Write a C++ program to find whether the given number is Armstrong or not. </br>
