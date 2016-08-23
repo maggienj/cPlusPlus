@@ -31,3 +31,14 @@ cout << "\n avg is " << avg;
 
 return 0;
 }
+
+
+
+// I ran the above code and the output is shown in the "output" section below.
+// Usage:
+// Input: 100 100 100 100 100 
+// Output:
+// Enter 5 scores separated by spaces: 
+// avg is 100
+// O 
+ 
