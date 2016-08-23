@@ -1,0 +1,30 @@
+#include <iostream>
+using namespace std;
+
+const int NUM_SCORES = 5;
+
+int main()
+{
+   int score1, score2, score3, score4, score5;
+   float ave;
+   cout << "Enter 3 scores separated by spaces: ";
+   cin  >> score1 >> score2 >> score3 >> score4 >> score5;
+
+   ave = float(score1 + score2 + score3 + score4 + score5) / float(NUM_SCORES);
+
+   cout << "The average of " 
+        << score1 << 
+        ", " 
+        << score2 << 
+        ",  "
+        << score3  << 
+        ", " 
+        << score4 <<   
+        ", " 
+        << score5 << 
+        " is " 
+        << ave << "." << endl;
+   return 0;
+}
+
+
